@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 4, 2018, 3:40:46 AM
+    Author     : maple
+*/
+body {
+    background-color: blue;
+    padding: 30px;
+}
+
+.navbar-header img {
+    max-height: 100%;
+    width: auto;
+}
+
+#pizza-menu {
+    width: 100%;
+    clear: both;
+}
+
+#pizza-menu section{
+    text-align: center;
+    border: 5px orangered double;
+    margin: 15px;
+    float: left;
+    padding: 5px;
+}
+
+#pizza-menu section img{
+    height: 300px;
+    width: 420px;
+    border: 2px yellow solid;
+}
+
+#menu h1 {
+    text-align: center;
+}
